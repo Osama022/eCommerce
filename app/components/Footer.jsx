@@ -10,7 +10,7 @@ const Footer = () => {
         alt="logoWhite"
         className="max-sm:w-1/2"
         />
-        <span>Created By Hazem Ali</span>
+        <span>Created By Osama Ali</span>
     </div>
   )
 }
